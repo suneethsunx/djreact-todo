@@ -1,0 +1,11 @@
+.body-container .body-tasks::-webkit-scrollbar{
+    width: 7px;
+}
+.body-container .body-tasks::-webkit-scrollbar-track{
+    background: #172032;
+    border-bottom-right-radius: 7px;
+}
+.body-container .body-tasks::-webkit-scrollbar-thumb{
+    background: #334155;
+    border-bottom-right-radius: 7px;
+}
